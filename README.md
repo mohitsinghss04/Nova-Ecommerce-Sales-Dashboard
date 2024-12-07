@@ -1,4 +1,4 @@
-# Nova-Ecommerce-Sales-Dashboard
+
 <h1 align="center">Nova E-commerce Sales Dashboard</h1>
 
 <p align="center">
