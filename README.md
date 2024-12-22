@@ -36,7 +36,7 @@
 <p align="center">
   <img src="link-to-your-image" alt="Nova E-commerce Sales Dashboard" style="width:80%; border: 1px solid #ddd; border-radius: 8px;">
 </p>
-<p align="center"><em>*Replace 'link-to-your-image' with a valid image URL.*</em></p>
+<p align="center"><em></em></p>
 
 ---
 
